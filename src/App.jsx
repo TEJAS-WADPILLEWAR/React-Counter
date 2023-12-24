@@ -22,7 +22,7 @@ function App() {
 
   return (
     <>
-      <h1>Radhey Radhey</h1>
+      <h1>Counter Project</h1>
       <h2>Counter value: {counter}</h2>
 
       <button
